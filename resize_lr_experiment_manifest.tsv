@@ -1,0 +1,100 @@
+experiment_id	model	learning_rate	resize_strategy	crop_size_pixels
+resize_lr_001	efficientnet_b0	0.001	resize	
+resize_lr_002	efficientnet_b0	0.001	big_center_crop_resize	960
+resize_lr_003	efficientnet_b0	0.001	small_center_crop_resize	480
+resize_lr_004	efficientnet_b0	0.0001	resize	
+resize_lr_005	efficientnet_b0	0.0001	big_center_crop_resize	960
+resize_lr_006	efficientnet_b0	0.0001	small_center_crop_resize	480
+resize_lr_007	efficientnet_b0	0.0003	resize	
+resize_lr_008	efficientnet_b0	0.0003	big_center_crop_resize	960
+resize_lr_009	efficientnet_b0	0.0003	small_center_crop_resize	480
+resize_lr_010	efficientnet_b1	0.001	resize	
+resize_lr_011	efficientnet_b1	0.001	big_center_crop_resize	960
+resize_lr_012	efficientnet_b1	0.001	small_center_crop_resize	480
+resize_lr_013	efficientnet_b1	0.0001	resize	
+resize_lr_014	efficientnet_b1	0.0001	big_center_crop_resize	960
+resize_lr_015	efficientnet_b1	0.0001	small_center_crop_resize	480
+resize_lr_016	efficientnet_b1	0.0003	resize	
+resize_lr_017	efficientnet_b1	0.0003	big_center_crop_resize	960
+resize_lr_018	efficientnet_b1	0.0003	small_center_crop_resize	480
+resize_lr_019	efficientnet_b2	0.001	resize	
+resize_lr_020	efficientnet_b2	0.001	big_center_crop_resize	960
+resize_lr_021	efficientnet_b2	0.001	small_center_crop_resize	480
+resize_lr_022	efficientnet_b2	0.0001	resize	
+resize_lr_023	efficientnet_b2	0.0001	big_center_crop_resize	960
+resize_lr_024	efficientnet_b2	0.0001	small_center_crop_resize	480
+resize_lr_025	efficientnet_b2	0.0003	resize	
+resize_lr_026	efficientnet_b2	0.0003	big_center_crop_resize	960
+resize_lr_027	efficientnet_b2	0.0003	small_center_crop_resize	480
+resize_lr_028	efficientnet_b3	0.001	resize	
+resize_lr_029	efficientnet_b3	0.001	big_center_crop_resize	960
+resize_lr_030	efficientnet_b3	0.001	small_center_crop_resize	480
+resize_lr_031	efficientnet_b3	0.0001	resize	
+resize_lr_032	efficientnet_b3	0.0001	big_center_crop_resize	960
+resize_lr_033	efficientnet_b3	0.0001	small_center_crop_resize	480
+resize_lr_034	efficientnet_b3	0.0003	resize	
+resize_lr_035	efficientnet_b3	0.0003	big_center_crop_resize	960
+resize_lr_036	efficientnet_b3	0.0003	small_center_crop_resize	480
+resize_lr_037	efficientnet_b4	0.001	resize	
+resize_lr_038	efficientnet_b4	0.001	big_center_crop_resize	960
+resize_lr_039	efficientnet_b4	0.001	small_center_crop_resize	480
+resize_lr_040	efficientnet_b4	0.0001	resize	
+resize_lr_041	efficientnet_b4	0.0001	big_center_crop_resize	960
+resize_lr_042	efficientnet_b4	0.0001	small_center_crop_resize	480
+resize_lr_043	efficientnet_b4	0.0003	resize	
+resize_lr_044	efficientnet_b4	0.0003	big_center_crop_resize	960
+resize_lr_045	efficientnet_b4	0.0003	small_center_crop_resize	480
+resize_lr_046	efficientnet_b5	0.001	resize	
+resize_lr_047	efficientnet_b5	0.001	big_center_crop_resize	960
+resize_lr_048	efficientnet_b5	0.001	small_center_crop_resize	480
+resize_lr_049	efficientnet_b5	0.0001	resize	
+resize_lr_050	efficientnet_b5	0.0001	big_center_crop_resize	960
+resize_lr_051	efficientnet_b5	0.0001	small_center_crop_resize	480
+resize_lr_052	efficientnet_b5	0.0003	resize	
+resize_lr_053	efficientnet_b5	0.0003	big_center_crop_resize	960
+resize_lr_054	efficientnet_b5	0.0003	small_center_crop_resize	480
+resize_lr_055	efficientnet_b6	0.001	resize	
+resize_lr_056	efficientnet_b6	0.001	big_center_crop_resize	960
+resize_lr_057	efficientnet_b6	0.001	small_center_crop_resize	480
+resize_lr_058	efficientnet_b6	0.0001	resize	
+resize_lr_059	efficientnet_b6	0.0001	big_center_crop_resize	960
+resize_lr_060	efficientnet_b6	0.0001	small_center_crop_resize	480
+resize_lr_061	efficientnet_b6	0.0003	resize	
+resize_lr_062	efficientnet_b6	0.0003	big_center_crop_resize	960
+resize_lr_063	efficientnet_b6	0.0003	small_center_crop_resize	480
+resize_lr_064	efficientnet_b7	0.001	resize	
+resize_lr_065	efficientnet_b7	0.001	big_center_crop_resize	960
+resize_lr_066	efficientnet_b7	0.001	small_center_crop_resize	480
+resize_lr_067	efficientnet_b7	0.0001	resize	
+resize_lr_068	efficientnet_b7	0.0001	big_center_crop_resize	960
+resize_lr_069	efficientnet_b7	0.0001	small_center_crop_resize	480
+resize_lr_070	efficientnet_b7	0.0003	resize	
+resize_lr_071	efficientnet_b7	0.0003	big_center_crop_resize	960
+resize_lr_072	efficientnet_b7	0.0003	small_center_crop_resize	480
+resize_lr_073	efficientnet_v2_s	0.001	resize	
+resize_lr_074	efficientnet_v2_s	0.001	big_center_crop_resize	960
+resize_lr_075	efficientnet_v2_s	0.001	small_center_crop_resize	480
+resize_lr_076	efficientnet_v2_s	0.0001	resize	
+resize_lr_077	efficientnet_v2_s	0.0001	big_center_crop_resize	960
+resize_lr_078	efficientnet_v2_s	0.0001	small_center_crop_resize	480
+resize_lr_079	efficientnet_v2_s	0.0003	resize	
+resize_lr_080	efficientnet_v2_s	0.0003	big_center_crop_resize	960
+resize_lr_081	efficientnet_v2_s	0.0003	small_center_crop_resize	480
+resize_lr_082	efficientnet_v2_m	0.001	resize	
+resize_lr_083	efficientnet_v2_m	0.001	big_center_crop_resize	960
+resize_lr_084	efficientnet_v2_m	0.001	small_center_crop_resize	480
+resize_lr_085	efficientnet_v2_m	0.0001	resize	
+resize_lr_086	efficientnet_v2_m	0.0001	big_center_crop_resize	960
+resize_lr_087	efficientnet_v2_m	0.0001	small_center_crop_resize	480
+resize_lr_088	efficientnet_v2_m	0.0003	resize	
+resize_lr_089	efficientnet_v2_m	0.0003	big_center_crop_resize	960
+resize_lr_090	efficientnet_v2_m	0.0003	small_center_crop_resize	480
+resize_lr_091	efficientnet_v2_l	0.001	resize	
+resize_lr_092	efficientnet_v2_l	0.001	big_center_crop_resize	960
+resize_lr_093	efficientnet_v2_l	0.001	small_center_crop_resize	480
+resize_lr_094	efficientnet_v2_l	0.0001	resize	
+resize_lr_095	efficientnet_v2_l	0.0001	big_center_crop_resize	960
+resize_lr_096	efficientnet_v2_l	0.0001	small_center_crop_resize	480
+resize_lr_097	efficientnet_v2_l	0.0003	resize	
+resize_lr_098	efficientnet_v2_l	0.0003	big_center_crop_resize	960
+resize_lr_099	efficientnet_v2_l	0.0003	small_center_crop_resize	480
